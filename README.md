@@ -77,7 +77,7 @@ Navigate to `http://localhost:8501` and start predicting!
 
 ## 📱 Web Application Features
 
-![Bitcoin Price Prediction App](app_screenshot.jpg)
+![Bitcoin Price Prediction App](images/app_screenshot.jpg)
 
 The Streamlit app provides:
 - 📝 **Interactive Input Form**: Easy data entry for market parameters (Date, Open, High, Low, Volume)
@@ -118,7 +118,7 @@ Based on the screenshot, for input data from 2017/08/17:
 ## 📈 Data Analysis & Visualizations
 
 ### Bitcoin Trading Volume Over Time
-![Bitcoin Trading Volume](bitcoin_trading_volume.jpg)
+![Bitcoin Trading Volume](images/bitcoin_trading_volume.jpg)
 
 The trading volume analysis reveals:
 - **Peak Activity**: Massive volume spikes during 2023 (up to 40,000+ units)
@@ -126,7 +126,7 @@ The trading volume analysis reveals:
 - **Volatility Indicator**: High volume periods coincide with market uncertainty
 
 ### Bitcoin Price Evolution (2018-2025)
-![Bitcoin Price Chart](bitcoin_price_chart.jpg)
+![Bitcoin Price Chart](images/bitcoin_price_chart.jpg)
 
 Key price milestones:
 - 🚀 **2021 Bull Run**: Reached ~$65,000
@@ -134,8 +134,8 @@ Key price milestones:
 - 🌙 **2025 Surge**: Dramatic rise to over $100,000
 
 ### Statistical Distribution Analysis
-![OHLC Box Plots](ohlc_boxplots.jpg)
-![Close and Volume Box Plots](close_volume_boxplots.jpg)
+![OHLC Box Plots](images/ohlc_boxplots.jpg)
+![Close and Volume Box Plots](images/close_volume_boxplots.jpg)
 
 The box plot analysis shows:
 - **Price Distribution**: Open, High, Low, and Close prices show similar distributions with outliers above $100k
