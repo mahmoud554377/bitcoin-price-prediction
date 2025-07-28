@@ -277,6 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐙 **GitHub**: [mahmoud554377](https://github.com/mahmoud554377)
 - 🐙 **GitHub**: [ammarelbordeny](https://github.com/ammarelbordeny)
+- 🐙 **GitHub**: [HagAli22](https://github.com/HagAli22)
 ## 🌟 Acknowledgments
 
 - Thanks to the TensorFlow and Streamlit communities
