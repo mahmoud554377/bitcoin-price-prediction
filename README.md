@@ -161,11 +161,11 @@ bitcoin-price-prediction/
 ├── 📓 notebooks/           # Analysis notebooks
 ├── 🤖 models/             # Model training scripts
 ├── 📸 images/             # Screenshots and visualizations
-│   ├── bitcoin_trading_volume.png
-│   ├── bitcoin_price_chart.png
-│   ├── ohlc_boxplots.png
-│   ├── close_volume_boxplots.png
-│   └── app_screenshot.png
+│   ├── bitcoin_trading_volume.jpg
+│   ├── bitcoin_price_chart.jpg
+│   ├── ohlc_boxplots.jpg
+│   ├── close_volume_boxplots.jpg
+│   └── app_screenshot.jpg
 
 ```
 ## 📓 Jupyter Notebook: project.ipynb
