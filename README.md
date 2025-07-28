@@ -7,6 +7,20 @@ A comprehensive machine learning project that predicts Bitcoin closing prices us
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13+-red?style=for-the-badge&logo=tensorflow)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-green?style=for-the-badge&logo=streamlit)
 
+## 👥 Teamwork
+
+This project was collaboratively developed by:
+
+- **Mahmoud Emad Khairy**
+- **Ammar Ahmed Farag**
+- **Mostafa Mohamed Abdullah**
+
+## 📧 Contact & Support
+
+- 🐙 **GitHub**: [mahmoud554377](https://github.com/mahmoud554377)
+- 🐙 **GitHub**: [ammarelbordeny](https://github.com/ammarelbordeny)
+- 🐙 **GitHub**: [HagAli22](https://github.com/HagAli22)
+
 ## 🎯 Project Overview
 
 This project explores and compares the effectiveness of different deep learning models for cryptocurrency price prediction. By analyzing historical Bitcoin data including OHLCV (Open, High, Low, Close, Volume) information, we built predictive models that can forecast future closing prices with high accuracy.
@@ -273,11 +287,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > **Important**: This project is for educational and research purposes only. Cryptocurrency investments are highly volatile and risky. The predictions made by these models should not be used as financial advice. Always conduct your own research and consult with financial advisors before making investment decisions.
 
-## 📧 Contact & Support
-
-- 🐙 **GitHub**: [mahmoud554377](https://github.com/mahmoud554377)
-- 🐙 **GitHub**: [ammarelbordeny](https://github.com/ammarelbordeny)
-- 🐙 **GitHub**: [HagAli22](https://github.com/HagAli22)
 ## 🌟 Acknowledgments
 
 - Thanks to the TensorFlow and Streamlit communities
