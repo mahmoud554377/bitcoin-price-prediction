@@ -126,7 +126,7 @@ The trading volume analysis reveals:
 - **Volatility Indicator**: High volume periods coincide with market uncertainty
 
 ### Bitcoin Price Evolution (2018-2025)
-![Bitcoin Price Chart](images/bitcoin_price_chart.png)
+![Bitcoin Price Chart](image2.jpg)
 
 Key price milestones:
 - 🚀 **2021 Bull Run**: Reached ~$65,000
@@ -134,8 +134,8 @@ Key price milestones:
 - 🌙 **2025 Surge**: Dramatic rise to over $100,000
 
 ### Statistical Distribution Analysis
-![OHLC Box Plots](images/ohlc_boxplots.png)
-![Close and Volume Box Plots](images/close_volume_boxplots.png)
+![OHLC Box Plots](image3.jpg)
+![Close and Volume Box Plots](image4.jpg)
 
 The box plot analysis shows:
 - **Price Distribution**: Open, High, Low, and Close prices show similar distributions with outliers above $100k
