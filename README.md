@@ -275,7 +275,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact & Support
 
-- 💼 **LinkedIn**: [(https://www.linkedin.com/feed/)](https://www.linkedin.com/in/mahmoud-emad-2223b8350/)
 - 🐙 **GitHub**: [mahmoud554377](https://github.com/mahmoud554377)
 ## 🌟 Acknowledgments
 
