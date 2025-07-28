@@ -77,7 +77,7 @@ Navigate to `http://localhost:8501` and start predicting!
 
 ## 📱 Web Application Features
 
-![Bitcoin Price Prediction App](images/app_screenshot.png)
+![Bitcoin Price Prediction App](app_screenshot.png)
 
 The Streamlit app provides:
 - 📝 **Interactive Input Form**: Easy data entry for market parameters (Date, Open, High, Low, Volume)
