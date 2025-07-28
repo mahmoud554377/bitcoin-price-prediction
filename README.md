@@ -118,7 +118,7 @@ Based on the screenshot, for input data from 2017/08/17:
 ## 📈 Data Analysis & Visualizations
 
 ### Bitcoin Trading Volume Over Time
-![Bitcoin Trading Volume](images/bitcoin_trading_volume.png)
+![Bitcoin Trading Volume](image1.jpg)
 
 The trading volume analysis reveals:
 - **Peak Activity**: Massive volume spikes during 2023 (up to 40,000+ units)
